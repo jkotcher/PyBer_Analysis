@@ -30,6 +30,6 @@ Each weekly fare in this line chart is a peak or a dip and the biggest disparity
 # Summary
 
 ## Business recommendations
-1. Inorder to make the number of drivers more even there should equal number of drivers in urban, rural and suburban cities.
+1. In order to make the number of drivers more even there should equal number of drivers in urban, rural and suburban cities.
 2. Take the average fare of all three cities and charge that as a far across all city types.
 3. For people traveling from urban to rural cities charge an up fee for traveling an extra long distance.
